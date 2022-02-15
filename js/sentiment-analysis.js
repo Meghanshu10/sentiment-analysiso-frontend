@@ -1,6 +1,5 @@
 const proxyurl = "https://cors-anywhere.herokuapp.com/";
-const twitterapical =
-  "https://sentiment-analysis-backend-v1.herokuapp.com/getTweetData";
+const twitterapical = "https://sentiment-analysis-backend-v2.herokuapp.com/getTweetData";
 
 const HOSTED_URLS = {
   queryTwitter: "../php/queryTwitter.php",
